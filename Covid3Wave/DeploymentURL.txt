@@ -1,0 +1,7 @@
+main URL:- http://ec2-3-21-12-81.us-east-2.compute.amazonaws.com:8000/
+
+API's URL:-
+
+http://ec2-3-21-12-81.us-east-2.compute.amazonaws.com:8000/Get_date_info(2020-12-07)/
+http://ec2-3-21-12-81.us-east-2.compute.amazonaws.com:8000/Get_state_info(West%20Bengal)/
+http://ec2-3-21-12-81.us-east-2.compute.amazonaws.com:8000/Pinpoint_state(West%20Bengal,2021-01-16)/
